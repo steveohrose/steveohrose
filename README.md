@@ -5,8 +5,8 @@
 ### About Me
 
 - 🔭 I’m currently working on: my portfolio - a newer version showing off all the UI design I've learned.
-- 🌱 I’m currently learning: WebGL and Three.js through Bruno Simons Threejs Journey.
-- 🤔 I’m looking at upskilling by: taking Epic React by Kent C. Dodds. 
+- 🌱 I’m currently learning: WebGL and Three.js through [Three.js Journey](https://threejs-journey.com/) by Bruno Simons.
+- 🤔 I’m looking at upskilling my: React skills by taking [Epic React](https://epicreact.dev/) by Kent C. Dodds. 
 - 💬 Ask me about: Design, Dev, Fungi, 3D art (including voxel art), donuts and robots!
 - 📫 How to reach me: steven@oh-rose.com
 - 😄 Pronouns: He/Him
@@ -15,21 +15,22 @@
 ### 🛠️ Tools I Like to Use
 
 **Development**
-- React
-- Typescript
-- Gatsby
-- Next 12
-- Scss
-- Sanity.io
-- Node
-- Ruby on Rails
-- GSAP
-- Framer Motion
-- WebGL
+- [React](https://reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Gatsby](https://www.gatsbyjs.com/)
+- [Next 12](https://nextjs.org/)
+- [Scss](https://sass-lang.com/)
+- [Sanity.io](https://www.sanity.io/)
+- [Node](https://nodejs.org/en/)
+- [Ruby on Rails](https://rubyonrails.org/)
+- [GSAP](https://greensock.com/gsap/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [WebGL](https://get.webgl.org/)
 
 **Design**
-- Figma
-- Framer
-- Protopie
-- After Effects
+- [Figma](https://www.figma.com/)
+- [Framer](https://www.framer.com/)
+- [Protopie](https://www.protopie.io/)
+- [After Effects](https://www.adobe.com/au/products/aftereffects.html)
+- [Blender 3D](https://www.blender.org/)
 
